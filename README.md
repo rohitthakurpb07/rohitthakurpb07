@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitthakurpb07
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...basics of computer programming, Im starting from 0
+- 👀 I’m interested in ...Learning about Coding
+- 🌱 I’m currently learning ...basics of computer programming, Im starting from zero
 - 📫 How to reach me ...follow @irohit.thakur on instagram  
 
 <!---
